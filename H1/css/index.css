@@ -230,11 +230,12 @@ h1 {
 	text-align: center
 }
 
+
 .page1 h1 {
 	width: 680px;
 	height: 60px;
-	background: url(../img/index_p1_h1.png) 50% no-repeat;
-	background-size: 100% auto;
+	background: url(../img/1224114722.png) 50% no-repeat;
+	background-size: 50% auto;
 	margin: 0 auto 0 auto
 }
 
@@ -1828,13 +1829,13 @@ h1 {
 
 #navgation .nav-wrapper .logo {
 	display: block;
-	width: 185px;
+	width: 300px;
 	height: 50px;
 	background: url(../img/logo.png) no-repeat;
 	background-size: cover;
 	position: absolute;
 	bottom: 30px;
-	right: 50px
+	right: 30px
 }
 
 .page-init>.inner {
