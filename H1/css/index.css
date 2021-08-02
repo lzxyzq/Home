@@ -1834,7 +1834,8 @@ h1 {
 	background: url(../img/logo.png) no-repeat;
 	background-size: cover;
 	position: absolute;
-	bottom: 30px	right: 30px
+	bottom: 30px;	
+	right: 30px
 }
 
 .page-init>.inner {
