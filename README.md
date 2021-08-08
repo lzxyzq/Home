@@ -1,4 +1,4 @@
 # Home
-博客首页
+Blog Home Page
 
-This is my blog's repository.  https://lzxyzq.github.io/
+This is my blog's repository.  https://lzxyzq.github.io/Home/H1/index.html
